@@ -1,0 +1,16 @@
+streamlit==1.40.1
+matplotlib
+pandas
+numpy
+scikit-learn
+scipy
+seaborn
+altair
+protobuf
+pydeck
+Pygments
+python-dateutil
+pytz
+requests
+rich
+babel
